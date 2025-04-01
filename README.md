@@ -1,4 +1,6 @@
 # Discord NLP Bot
+![WhatsApp Image 2025-04-01 at 22 55 22_5b4a4196](https://github.com/user-attachments/assets/e7a9fdab-b373-449b-bea8-15cf164a27ae)
+
 
 A **Discord bot** built with **Python** and the `discord.py` library, designed to perform various **NLP tasks** like **summarization, sentiment analysis, grammar checking, tokenization, and part-of-speech tagging**.
 
