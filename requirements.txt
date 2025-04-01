@@ -1,0 +1,9 @@
+discord
+transformers
+nltk
+language_tool_python
+textblob
+responses
+requests
+calender
+wikipedia
