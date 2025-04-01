@@ -1,7 +1,5 @@
 # Discord NLP Bot
 
-![WhatsApp Image 2025-04-01 at 22 58 10_eceec6cc](https://github.com/user-attachments/assets/996642fa-41fc-4738-870a-1ba7918e4cbe)
-
 
 A **Discord bot** built with **Python** and the `discord.py` library, designed to perform various **NLP tasks** like **summarization, sentiment analysis, grammar checking, tokenization, and part-of-speech tagging**.
 
@@ -68,7 +66,10 @@ Bot: Summary: Helpful bot for text analysis.
 1. Fork the repository
 2. Create a new branch 
 3. Make your changes 
-4. Submit a pull request 
+4. Submit a pull request
+
+## Images of the chatbot panel of the bot
+![WhatsApp Image 2025-04-01 at 22 58 10_eceec6cc](https://github.com/user-attachments/assets/996642fa-41fc-4738-870a-1ba7918e4cbe)
 
 ## License 📜
 This project is licensed under the **MIT License**.
@@ -77,4 +78,5 @@ This project is licensed under the **MIT License**.
 ### Need Help? 🤔
 Feel free to open an issue or reach out on Discord
 help me to further decide and improvise the performance of summarizing feature of this bot which uses BART AI model 
+
 
